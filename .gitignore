@@ -70,3 +70,10 @@ typings/
 .idea
 
 config.js
+
+**/vendor/**
+!**/vendor/vendor.json
+
+**/.idea**
+**/*.iml
+**/*.zip
